@@ -8,5 +8,5 @@
 | [Выбор локации для скважины](https://github.com/OddFeline4/Practicum_projects/tree/main/Oilfield_project)       | . Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.       | Cell 6        |
 | [Телекоммуникации](https://github.com/OddFeline4/Practicum_projects/tree/main/Telecommunication_project)        | Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Задача — обучить на этих данных модель для прогноза оттока клиентов.     | Cell 9        |
 | [Проект для «Викишоп»](https://github.com/OddFeline4/Practicum_projects/tree/main/Text_class_project)       | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.  | pandas, sklearn, nltk |
-| [Классические алгоритмы ML](https://github.com/OddFeline4/Practicum_projects/tree/main/ML_algorithms/ML_algorithms)         | [Link](dot.com) | Cell 9        |
+| [Классические алгоритмы ML](https://github.com/OddFeline4/Practicum_projects/tree/main/ML_algorithms/ML_algorithms)         | Один из самых эффективных способов разобраться как работает тот или иной алгоритм - реализовать его самому. | Python, OOP, Recursion        |
 
